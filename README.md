@@ -1,7 +1,9 @@
 # Fake WebUSB
 
 This project runs only on Linux.
-It uses some scripts to create a fake USB device that is has WebUSB Support, a WebUSB Gadget.
+It uses some scripts to create a fake USB device that is has WebUSB Support.
+
+You can read about WebUSB here: https://usb.spec.whatwg.org/
 
 ## Create Device
 
